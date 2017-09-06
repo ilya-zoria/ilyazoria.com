@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="54px" viewBox="0 0 46 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_simple_solutions</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="visual" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-644.000000, -2868.000000)" stroke-width="2">
+            <g id="ic_simple_solutions" transform="translate(637.000000, 2866.000000)">
+                <path d="M32,49 L45,49 L45,49 C46.6568542,49 48,47.6568542 48,46 L48,37" id="Path-14" stroke="#F52B22"></path>
+                <path d="M12,49 L30.5,49 L30.5,49 C32.1568542,49 33.5,47.6568542 33.5,46 L33.5,41" id="Path-14" stroke="#F52B22" transform="translate(22.750000, 45.000000) scale(-1, 1) translate(-22.750000, -45.000000) "></path>
+                <circle id="Oval-5" stroke="#F52B22" fill="#FEE9E8" fill-rule="evenodd" cx="48" cy="37" r="4"></circle>
+                <circle id="Oval-5-Copy" stroke="#F52B22" fill="#FEE9E8" fill-rule="evenodd" cx="12" cy="41" r="4"></circle>
+                <path d="M30,55 L30,31" id="Path-15" stroke="#F52B22" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M30,37 C31.8920898,37 40,29 40,23 C40,17 35.5228475,13 30,13 C24.4771525,13 20,17 20,23 C20,29 28.1079102,37 30,37 Z" id="Oval-6" stroke="#F52B22" fill="#F52B22" fill-rule="evenodd"></path>
+                <path d="M27.930608,20.9910254 C29.076904,19.6576921 30.4935706,18.9910254 32.180608,18.9910254 C33.8676453,18.9910254 35.284312,19.6576921 36.430608,20.9910254" id="Path-16" stroke="#FEE9E8" stroke-linecap="round" stroke-linejoin="round" transform="translate(32.180608, 19.991025) rotate(-330.000000) translate(-32.180608, -19.991025) "></path>
+                <path d="M25,33 L35,33 L35,36 L35,36 C35,38.7614237 32.7614237,41 30,41 L30,41 L30,41 C27.2385763,41 25,38.7614237 25,36 L25,33 Z" id="Rectangle-9" stroke="#F52B22" fill="#F52B22" fill-rule="evenodd"></path>
+                <path d="M22,34 L38,34" id="Path-17" stroke="#FFFFFF"></path>
+                <path d="M46.8284271,12.8284271 L44,10" id="Path-9-Copy-4" stroke="#FEE9E8" fill="#FFFFFF" fill-rule="evenodd" stroke-linecap="round" transform="translate(45.414214, 11.414214) scale(-1, 1) translate(-45.414214, -11.414214) "></path>
+                <path d="M30,7 L30,3" id="Path-9-Copy-4" stroke="#FEE9E8" fill="#FFFFFF" fill-rule="evenodd" stroke-linecap="round"></path>
+                <path d="M15.8284271,12.8284271 L13,10" id="Path-9-Copy-4" stroke="#FEE9E8" fill="#FFFFFF" fill-rule="evenodd" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

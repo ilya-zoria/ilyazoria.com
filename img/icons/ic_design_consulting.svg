@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="55px" viewBox="0 0 65 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_design_consulting</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="visual" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-1074.000000, -1202.000000)">
+            <g id="ic_design_consulting" transform="translate(1050.000000, 1170.000000)">
+                <path d="M27,32 L61,32 L61,32 C62.6568542,32 64,33.3431458 64,35 L64,61 L64,61 C64,62.6568542 62.6568542,64 61,64 L40.8284271,64 L40.8284271,64 C40.2979941,64 39.7892863,64.2107137 39.4142136,64.5857864 L34.8284271,69.1715729 L34.8284271,69.1715729 C34.1813853,69.8186147 33.1323232,69.8186147 32.4852814,69.1715729 C32.1745609,68.8608524 32,68.4394251 32,68 L32,66 L32,66 C32,64.8954305 31.1045695,64 30,64 L27,64 L27,64 C25.3431458,64 24,62.6568542 24,61 L24,35 L24,35 C24,33.3431458 25.3431458,32 27,32 Z" id="Rectangle" fill="#FEE9E8" fill-rule="evenodd"></path>
+                <circle id="Oval-3" fill="#FFFFFF" fill-rule="evenodd" cx="38" cy="42" r="2"></circle>
+                <circle id="Oval-3-Copy" fill="#FFFFFF" fill-rule="evenodd" cx="50" cy="42" r="2"></circle>
+                <path d="M36,52 C38.6666667,54.6666667 41.3333333,56 44,56 C46.6666667,56 49.3333333,54.6666667 52,52" id="Path-4" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M51,48 L85,48 L85,48 C86.6568542,48 88,49.3431458 88,51 L88,77 L88,77 C88,78.6568542 86.6568542,80 85,80 L82,80 L82,80 C80.8954305,80 80,80.8954305 80,82 L80,84 L80,84 C80,84.9150553 79.2582011,85.6568542 78.3431458,85.6568542 C77.9037207,85.6568542 77.4822933,85.4822933 77.1715729,85.1715729 L72.5857864,80.5857864 L72.5857864,80.5857864 C72.2107137,80.2107137 71.7020059,80 71.1715729,80 L51,80 L51,80 C49.3431458,80 48,78.6568542 48,77 L48,51 L48,51 C48,49.3431458 49.3431458,48 51,48 Z" id="Rectangle-Copy" stroke="#F52B22" stroke-width="2" fill="#FFFFFF" fill-rule="evenodd"></path>
+                <path d="M60,68 C62.6666667,70.6666667 65.3333333,72 68,72 C70.6666667,72 73.3333333,70.6666667 76,68" id="Path-4-Copy" stroke="#F52B22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M56,58 C57.3333333,59.3333333 58.6666667,60 60,60 C61.3333333,60 62.6666667,59.3333333 64,58" id="Path-4-Copy" stroke="#F52B22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(60.000000, 59.000000) rotate(-180.000000) translate(-60.000000, -59.000000) "></path>
+                <path d="M72,58 C73.3333333,59.3333333 74.6666667,60 76,60 C77.3333333,60 78.6666667,59.3333333 80,58" id="Path-4-Copy-2" stroke="#F52B22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(76.000000, 59.000000) rotate(-180.000000) translate(-76.000000, -59.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

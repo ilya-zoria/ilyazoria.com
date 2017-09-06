@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_fb</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer-3" transform="translate(-1044.000000, -18.000000)" fill-rule="nonzero">
+            <g id="ic_fb" transform="translate(1044.790509, 18.000000)">
+                <path d="M20,17.5 C20,18.875 18.875,20 17.5,20 L2.5,20 C1.125,20 0,18.875 0,17.5 L0,2.5 C0,1.125 1.125,0 2.5,0 L17.5,0 C18.875,0 20,1.125 20,2.5 L20,17.5 Z" id="Shape" fill="#343439"></path>
+                <path d="M10.7620313,20 L10.7620313,12.216875 L7.98390625,12.216875 L7.98390625,9.44140625 L10.7626563,9.44140625 L10.7626563,6.87953125 C10.7626563,4.295625 12.2882813,2.7734375 14.5929688,2.7734375 C15.6973438,2.7734375 16.5982813,2.8915625 16.875,2.92828125 L16.875,5.8303125 L15.0196875,5.82953125 C13.76625,5.82953125 13.5317188,6.45125 13.5317188,7.32515625 L13.5317188,9.44140625 L16.7435938,9.44140625 L16.2898438,12.216875 L13.5317188,12.216875 L13.5317188,20 L10.7620313,20 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
