@@ -26,8 +26,10 @@
 	<script>!function(e){"use strict";function t(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function n(t,n){return e.localStorage&&localStorage[t+"_content"]&&localStorage[t+"_file"]===n}function a(t,a){if(e.localStorage&&e.XMLHttpRequest)n(t,a)?o(localStorage[t+"_content"]):l(t,a);else{var s=r.createElement("link");s.href=a,s.id=t,s.rel="stylesheet",s.type="text/css",r.getElementsByTagName("head")[0].appendChild(s),r.cookie=t}}function l(e,t){var n=new XMLHttpRequest;n.open("GET",t,!0),n.onreadystatechange=function(){4===n.readyState&&200===n.status&&(o(n.responseText),localStorage[e+"_content"]=n.responseText,localStorage[e+"_file"]=t)},n.send()}function o(e){var t=r.createElement("style");t.setAttribute("type","text/css"),r.getElementsByTagName("head")[0].appendChild(t),t.styleSheet?t.styleSheet.cssText=e:t.innerHTML=e}var r=e.document;e.loadCSS=function(e,t,n){var a,l=r.createElement("link");if(t)a=t;else{var o;o=r.querySelectorAll?r.querySelectorAll("style,link[rel=stylesheet],script"):(r.body||r.getElementsByTagName("head")[0]).childNodes,a=o[o.length-1]}var s=r.styleSheets;l.rel="stylesheet",l.href=e,l.media="only x",a.parentNode.insertBefore(l,t?a:a.nextSibling);var c=function(e){for(var t=l.href,n=s.length;n--;)if(s[n].href===t)return e();setTimeout(function(){c(e)})};return l.onloadcssdefined=c,c(function(){l.media=n||"all"}),l},e.loadLocalStorageCSS=function(l,o){n(l,o)||r.cookie.indexOf(l)>-1?a(l,o):t(e,"load",function(){a(l,o)})}}(this);</script>
 
 	<!-- Load CSS Start -->
-	<!-- <script>loadLocalStorageCSS( "webfonts", "css/fonts.min.css?ver=1.0.0" );</script> -->
-	<script>loadCSS( "css/main.min.css?ver=1.0.0", false, "all" );</script>
+	<link rel="stylesheet" href="css/fonts.min.css">
+	<link rel="stylesheet" href="css/main.min.css">
+	<!-- <script>loadLocalStorageCSS( "webfonts", "css/fonts.min.css?ver=1.0.0" );</script>
+	<script>loadCSS( "css/main.min.css?ver=1.0.0", false, "all" );</script> -->
 	<!-- Load CSS End -->
 
 	<!-- Load CSS Compiled without JS -->
@@ -49,7 +51,7 @@
 
 			<nav class="col-xs-12 col-sm-6">
 				<ul class="nav_wrapper">
-					<li class="nav_item1"><a href="about.html">About</a></li>
+					<li class="nav_item1"><a href="about.html">About me</a></li>
 					<li><a href="contacts.html">Contacts</a></li>
 				</ul>
 			</nav>
@@ -68,7 +70,7 @@
 		  <div class="row">
 
 				<div class="hero_text inblocks_head_padding row">
-					<h1 class="col-md-6">About</h1>
+					<h1 class="col-md-6">About me</h1>
 					<p class="blocks_body col-md-6">Start from junior web designer in small startup at 2013 to product designer in big travel company. Designing interfaces for different product companies like <a class="links" target="_blank" href="https://www.paymentwall.com">Paymentwall</a>, <a class="links" target="_blank" href="http://www.fareportal.com/">Fareportal</a> and partly freelancing for startups and small/mid businesses. Passionate about remote working, minimalism, and learning. Below are three my life focus, which form me as a person and change my life forever.</p>
 				</div>
 
@@ -168,7 +170,7 @@
 
 			<div class="footer_nav col-md-4">
 				<ul>
-					<li><a href="about.html">About</a></li>
+					<li><a href="about.html">About me</a></li>
 					<li><a href="contacts.html">Contacts</a></li>
 				</ul>
 			</div>
