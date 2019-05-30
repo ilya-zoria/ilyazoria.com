@@ -1,3 +1,0 @@
-# ilyazorya.com
-
-Personal website
